@@ -1,0 +1,29 @@
+/*fondo del pagina */
+body{
+	/*color del fondo*/
+	background:lightblue;
+}
+
+/*se agrupa solo la clase con un .*/
+.parrafo{
+	/*para aumentar el texto*/
+		font-size: 20px;
+		/*centrar texto*/
+		text-align: center;
+		/*color al texto*/
+		color: blue;
+		/*decorar el texto*/
+		text-decoration: underline;
+}
+#capa{
+/*tamaño, ancho,borde,color,fondo centrar*/
+	
+	width: 500px;
+	height:500px;
+	background: white;
+	margin: auto;
+	border: 1px solid black;
+}
+.
+}
+	

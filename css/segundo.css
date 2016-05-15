@@ -1,0 +1,74 @@
+/*1. definir estilos etiqueta*/
+/*2. difinir etiquetas y indentificadores*/
+/*3. definir para las clases*/
+
+*
+{
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: 0 auto;
+	color: #fff;
+	font-family: 'Biryani', sans-serif;
+	font-size: 16px;
+}
+a{
+	color: #f60;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover{
+	color: #009999;
+}
+
+article{
+	margin: 0 auto;
+	text-align: justify;
+	width: 85%;
+}
+
+h1{
+	font-size: 3em;
+	text-align: center;
+}
+img{
+	display: block;
+	margin: 0 auto;
+}
+ul a {
+	background: #fff;
+	border: 0.1em solid:#009999;
+	border-radius: 5em 1em;
+	padding: 7px;
+	
+
+}
+ul a:hover{
+	background: #000;
+	border: 1em dashed #f60;
+	color: blue;
+}
+
+ul li{
+	display:inline-block;
+	margin: 1.5em 1em;
+	vertical-align: top;
+}
+
+
+aside{
+	text-align: center;
+}
+
+p{
+	font-size: 1.5em;
+	text-align: center;
+}
+
+aside{
+	font-size: 3em;
+	text-align: center;
+}
